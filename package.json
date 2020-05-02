@@ -1,0 +1,14 @@
+{
+  "name": "tplink-smarthome-fw-updater",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Talusan <george.talusan@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "tplink-smarthome-api": "git+https://github.com/gtalusan/tplink-smarthome-api.git"
+  }
+}
